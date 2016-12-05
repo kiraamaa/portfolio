@@ -1,1 +1,5 @@
 /* your styles go here */
+
+.img-circle {
+  border-radius: 50%;
+}
